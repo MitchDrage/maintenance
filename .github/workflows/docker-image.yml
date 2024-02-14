@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile  # Path to your Dockerfile
           push: true
-          tags: mitchdrage/maintenance:latest
+          tags: mitchelldrage/maintenance:latest
